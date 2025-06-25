@@ -12,7 +12,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frm-news-page.git](https://github.com/CoderAlchemy24/frm-news-page.git)
+- Live Site URL: [https://dapper-yeot-6b74ff.netlify.app/](https://dapper-yeot-6b74ff.netlify.app/)
 
 
 ### Built with
